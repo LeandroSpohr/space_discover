@@ -1,7 +1,7 @@
 # 🚀 Space Discover 🚀
 ## ⬆️ Um guia gratuito para você entrar no mundo da programação web ⬆️
 
-<p><img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/ef9a3260506271.5a4f65ff2e513.gif" alt="rocket gif"  alt="Rocket Gif" /></p>
+<p align="center"><img src="https://c.tenor.com/aqjGQV7crbgAAAAC/rocket.gif" alt="Rocket Gif" /></p>
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" /> HTML5
 ### Cursos gratuitos para aprender HTML
@@ -23,6 +23,9 @@
 </p>
 <p>
   <a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Documentação CSS W3schools</a>
+</p>
+<p>
+  <a href="https://origamid.com/projetos/flexbox-guia-completo/" target="_blank">Guia Flexbox Origamid</a>
 </p>
 
 ## 📘 Cursos completos (HTML, CSS e JS)
