@@ -62,6 +62,35 @@
 
   ## 
 
+  <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /> </p>
+  
+  ## <p align="center">JS</p>
+
+  ### <p align="center">📓 Cursos gratuitos para aprender JS</p>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://www.udemy.com/topic/javascript/?price=price-free&sort=popularity" target="_blank">Udemy Cursos JS Gratuitos</a>
+    </p>
+  </p>
+
+  ### <p align="center">🌐 Links úteis para JS</p>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://code.org" target="_blank">Code.org (aprenda jogando)</a>
+    </p>
+    <p align="center">
+      <a href="https://grasshopper.app/pt_br/" target="_blank">Grasshopper</a>
+    </p>
+    <p align="center">
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Doc Javascript</a>
+    </p>
+    
+  </p>
+
+  ## 
+
   <p align="center"><img src="http://assets.mktnaweb.com/accounts/2013/02/20/29689/pictures/59/original_%C3%ADcone_cursos.png?1447340854" width="50" /> </p>
   
   ## <p align="center">Cursos completos (HTML, CSS e JS)</p>
