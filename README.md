@@ -19,6 +19,9 @@
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" /> CSS3
 ### Cursos gratuitos para aprender CSS
+<p>
+  <a href="https://www.udemy.com/topic/css/?price=price-free&sort=popularity" target="_blank">Udemy Cursos CSS Gratuitos</a>
+</p>
 
 ### 🌐 Links úteis para CSS
 <p>
