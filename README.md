@@ -33,6 +33,9 @@
 <p>
   <a href="https://origamid.com/projetos/flexbox-guia-completo/" target="_blank">Guia Flexbox Origamid</a>
 </p>
+<p>
+  <a href="https://flexboxfroggy.com/" target="_blank">Game Flexbox Froggy</a>
+</p>
 
 ## 📘 Cursos completos (HTML, CSS e JS)
 <p>
