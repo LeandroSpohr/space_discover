@@ -10,25 +10,23 @@
   ## <p align="center">HTML5</p>
 
   ### <p align="center">📓 Cursos gratuitos para aprender HTML</p>
-  <nav>
-    <ul align="center">
-      <li>
-        <a href="https://www.udemy.com/topic/html5/?price=price-free&sort=popularity" target="_blank">Udemy Cursos HTML Gratuitos</a>
-      </li>
-    </ul>
-  </nav>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://www.udemy.com/topic/html5/?price=price-free&sort=popularity" target="_blank">Udemy Cursos HTML Gratuitos</a>
+    </p>
+  </p>
 
   ### <p align="center">🌐 Links úteis para HTML</p>
-  <nav>
-    <ul align="center">
-      <li>
-        <a href="https://www.w3schools.com/html/default.asp" target="_blank">Tutorial HTML W3schools</a>
-      </li>
-      <li>
-        <a href="https://www.w3schools.com/tags/default.asp" target="_blank">Documentação HTML W3schools</a>
-      </li>
-    </ul>
-  </nav>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://www.w3schools.com/html/default.asp" target="_blank">Tutorial HTML W3schools</a>
+    </p>
+    <p align="center">
+      <a href="https://www.w3schools.com/tags/default.asp" target="_blank">Documentação HTML W3schools</a>
+    </p>
+  </p>
 
   ## 
 
@@ -37,31 +35,30 @@
   ## <p align="center">CSS3</p>
 
   ### <p align="center">📓 Cursos gratuitos para aprender CSS</p>
-  <nav>
-    <ul align="center">
-      <li>
-        <a href="https://www.udemy.com/topic/css/?price=price-free&sort=popularity" target="_blank">Udemy Cursos CSS Gratuitos</a>
-      </li>
-    </ul>
-  </nav>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://www.udemy.com/topic/css/?price=price-free&sort=popularity" target="_blank">Udemy Cursos CSS Gratuitos</a>
+    </p>
+  </p>
+  
 
   ### <p align="center">🌐 Links úteis para CSS</p>
-  <nav>
-    <ul align="center">
-      <li>
-        <a href="https://www.w3schools.com/css/default.asp" target="_blank">Tutorial CSS W3schools</a>
-      </li>
-      <li>
-        <a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Documentação CSS W3schools</a>
-      </li>
-      <li>
-        <a href="https://origamid.com/projetos/flexbox-guia-completo/" target="_blank">Guia Flexbox Origamid</a>
-      </li>
-      <li>
-        <a href="https://flexboxfroggy.com/" target="_blank">Game Flexbox Froggy</a>
-      </li>
-    </ul>
-  </nav>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://www.w3schools.com/css/default.asp" target="_blank">Tutorial CSS W3schools</a>
+    </p>
+    <p align="center">
+      <a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Documentação CSS W3schools</a>
+    </p>
+    <p align="center">
+      <a href="https://origamid.com/projetos/flexbox-guia-completo/" target="_blank">Guia Flexbox Origamid</a>
+    </p>
+    <p align="center">
+      <a href="https://flexboxfroggy.com/" target="_blank">Game Flexbox Froggy</a>
+    </p>
+  </p>
 
   ## 
 
@@ -69,16 +66,15 @@
   
   ## <p align="center">Cursos completos (HTML, CSS e JS)</p>
 
-  <nav>
-    <ul align="center">
-      <li>
-        <a href="https://www.rocketseat.com.br/discover" target="_blank">Discover Rocketseat</a>
-      </li>
-      <li>
-        <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>
-      </li>
-    </ul>
-  </nav>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://www.rocketseat.com.br/discover" target="_blank">Discover Rocketseat</a>
+    </p>
+    <p align="center">
+      <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>
+    </p>
+  </p>
 
   ## 
 
@@ -86,16 +82,14 @@
 
   ## <p align="center">Canais para  seguir</p>
 
-  <nav>
-    <ul align="center">
-      <li>
-        <a href="https://www.youtube.com/c/RocketSeat" target="_blank">Rocketseat</a>
-      </li>
-      <li>
-        <a href="https://www.youtube.com/c/FilipeDeschamps" target="_blank">FilipeDeschamps</a>
-      </li>
-      <li>
-        <a href="https://www.youtube.com/c/CursoemVídeo" target="_blank">CursoemVídeo</a>
-      </li>
-    </ul>
-  </nav>
+  <p align="center">
+    <p align="center">
+      <a href="https://www.youtube.com/c/RocketSeat" target="_blank">Rocketseat</a>
+    </p>
+    <p align="center">
+      <a href="https://www.youtube.com/c/FilipeDeschamps" target="_blank">FilipeDeschamps</a>
+    </p>
+    <p align="center">
+      <a href="https://www.youtube.com/c/CursoemVídeo" target="_blank">CursoemVídeo</a>
+    </p>
+  </p>
