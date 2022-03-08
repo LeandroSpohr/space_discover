@@ -1,5 +1,5 @@
 # <p align="center">🚀 Space Discover 🚀</p>
-## ⬆️ Um guia gratuito para você entrar no mundo da programação web ⬆️
+## <p align="center">⬆️ Um guia gratuito para você entrar no mundo da programação web ⬆️</p>
 
 <p align="center"><img src="https://c.tenor.com/aqjGQV7crbgAAAAC/rocket.gif" alt="Rocket Gif" /></p>
 
