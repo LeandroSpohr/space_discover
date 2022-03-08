@@ -5,7 +5,7 @@
 
   ## 
 
-  <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" /> </p>
+  <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" /> </p>
   
   ## <p align="center">HTML5</p>
 
@@ -32,7 +32,7 @@
 
   ## 
 
-  <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" /> </p>
+  <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" /> </p>
 
   ## <p align="center">CSS3</p>
 
