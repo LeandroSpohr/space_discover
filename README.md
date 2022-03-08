@@ -4,7 +4,7 @@
 <p align="center"><img src="https://c.tenor.com/aqjGQV7crbgAAAAC/rocket.gif" alt="Rocket Gif" /></p>
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" /> HTML5
-### Cursos gratuitos para aprender HTML
+### 📓 Cursos gratuitos para aprender HTML
 <p>
   <a href="https://www.udemy.com/topic/html5/?price=price-free&sort=popularity" target="_blank">Udemy Cursos HTML Gratuitos</a>
 </p>
@@ -18,7 +18,7 @@
 </p>
 
 ## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" /> CSS3
-### Cursos gratuitos para aprender CSS
+### 📓 Cursos gratuitos para aprender CSS
 <p>
   <a href="https://www.udemy.com/topic/css/?price=price-free&sort=popularity" target="_blank">Udemy Cursos CSS Gratuitos</a>
 </p>
