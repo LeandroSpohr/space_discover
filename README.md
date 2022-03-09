@@ -1,7 +1,12 @@
   # <p align="center">🚀 Space Discover 🚀</p>
   ## <p align="center">⬆️ Um guia de conteúdos gratuitos para você entrar no mundo da programação web ⬆️</p>
 
-  <p align="center"><img src="https://c.tenor.com/aqjGQV7crbgAAAAC/rocket.gif" alt="Rocket Gif" /></p>
+  <p align="center"><img src="https://c.tenor.com/aqjGQV7crbgAAAAC/rocket.gif" alt="Rocket Gif" /></p><br>
+  
+  ##
+  ##
+
+  # <p align="center">🧰 Preparando a base de lançamento 🧰</p>
 
   ## 
 
@@ -111,6 +116,11 @@
     </p>
 
   </p>
+  
+  ##
+  ##
+
+  # <p align="center"> 🚀 Lançando o foguete 🚀</p>
 
   ## 
 
@@ -144,7 +154,11 @@
       <a href="https://youtu.be/pDbcC-xSat4" target="_blank">RocketSeat - React em 2022 (React)</a>
     </p>
   </p>
+  
+  ##
+  ##
 
+  # <p align="center"> 🪐 Explorando o Espaço 🪐</p>
   ## 
 
   <p align="center"><img src="https://www.apaulista.org.br/wp-content/uploads/2021/02/youtube-logo.png" width="50" /> </p>
