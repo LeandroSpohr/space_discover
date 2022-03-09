@@ -84,9 +84,32 @@
       <a href="https://grasshopper.app/pt_br/" target="_blank">Grasshopper</a>
     </p>
     <p align="center">
-      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Doc Javascript</a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Documentação Javascript</a>
     </p>
     
+  </p>
+
+  ## 
+
+  <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" /> </p>
+  
+  ## <p align="center">React</p>
+
+  ### <p align="center">📓 Cursos gratuitos para aprender React</p>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://www.udemy.com/topic/react/?price=price-free&sort=popularity" target="_blank">Udemy Cursos React Gratuitos</a>
+    </p>
+  </p>
+
+  ### <p align="center">🌐 Links úteis para React</p>
+
+  <p align="center">
+    <p align="center">
+      <a href="https://pt-br.reactjs.org/" target="_blank">Documentação React</a>
+    </p>
+
   </p>
 
   ## 
@@ -110,6 +133,15 @@
     </p>
     <p align="center">
       <a href="https://youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6" target="_blank">Hora de Codar (JS)</a>
+    </p>
+    <p align="center">
+      <a href="https://youtube.com/playlist?list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI" target="_blank">RocketSeat (React)</a>
+    </p>
+    <p align="center">
+      <a href="https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO" target="_blank">Hora de Codar (React)</a>
+    </p>
+    <p align="center">
+      <a href="https://youtu.be/pDbcC-xSat4" target="_blank">RocketSeat - React em 2022 (React)</a>
     </p>
   </p>
 
