@@ -93,15 +93,23 @@
 
   <p align="center"><img src="http://assets.mktnaweb.com/accounts/2013/02/20/29689/pictures/59/original_%C3%ADcone_cursos.png?1447340854" width="50" /> </p>
   
-  ## <p align="center">Cursos completos (HTML, CSS e JS)</p>
-
+  ## <p align="center">Cursos completos</p>
 
   <p align="center">
     <p align="center">
-      <a href="https://www.rocketseat.com.br/discover" target="_blank">Discover Rocketseat</a>
+      <a href="https://youtube.com/playlist?list=PLnDvRpP8Bnez2LJGshXKtid2f-aUkFOqM" target="_blank">Hora de Codar (HTML e CSS)</a>
     </p>
     <p align="center">
-      <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>
+      <a href="https://youtube.com/playlist?list=PLVzrOYTg7zYAsLLBBN20bo7qOr9fC-USB" target="_blank">Programador BR (HTML e CSS)</a>
+    </p>
+    <p align="center">
+      <a href="https://www.rocketseat.com.br/discover" target="_blank">Discover Rocketseat (HTML, CSS e JS)</a>
+    </p>
+    <p align="center">
+      <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video (HTML, CSS e JS)</a>
+    </p>
+    <p align="center">
+      <a href="https://youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6" target="_blank">Hora de Codar (JS)</a>
     </p>
   </p>
 
@@ -109,7 +117,7 @@
 
   <p align="center"><img src="https://www.apaulista.org.br/wp-content/uploads/2021/02/youtube-logo.png" width="50" /> </p>
 
-  ## <p align="center">Canais para  seguir</p>
+  ## <p align="center">Canais para seguir</p>
 
   <p align="center">
     <p align="center">
@@ -120,5 +128,11 @@
     </p>
     <p align="center">
       <a href="https://www.youtube.com/c/CursoemVídeo" target="_blank">CursoemVídeo</a>
+    </p>
+    <p align="center">
+      <a href="https://www.youtube.com/c/OneBitCode" target="_blank">OneBitCode</a>
+    </p>
+    <p align="center">
+      <a href="https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag" target="_blank">Hora de Codar</a>
     </p>
   </p>
