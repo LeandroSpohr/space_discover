@@ -8,6 +8,8 @@
 
   # <p align="center">🧰 Preparando a base de lançamento 🧰</p>
 
+  <p align="center"><img src="https://media1.giphy.com/media/l46CyJmS9KUbokzsI/giphy.gif" alt="Patrick Gif" /></p><br>
+
   ## 
 
   <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" /> </p>
@@ -122,6 +124,8 @@
 
   # <p align="center"> 🚀 Lançando o foguete 🚀</p>
 
+  <p align="center"><img src="https://c.tenor.com/hkuxSwhnahYAAAAd/rocket-launch-lightyear.gif" alt="Launch Gif" /></p><br>
+
   ## 
 
   <p align="center"><img src="http://assets.mktnaweb.com/accounts/2013/02/20/29689/pictures/59/original_%C3%ADcone_cursos.png?1447340854" width="50" /> </p>
@@ -159,6 +163,9 @@
   ##
 
   # <p align="center"> 🪐 Explorando o Espaço 🪐</p>
+  
+  <p align="center"><img src="https://c.tenor.com/xKaM7a_GDhgAAAAC/planets.gif" alt="Rocket Gif" /></p><br>
+  
   ## 
 
   <p align="center"><img src="https://www.apaulista.org.br/wp-content/uploads/2021/02/youtube-logo.png" width="50" /> </p>
