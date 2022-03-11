@@ -20,6 +20,7 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
       <a href="https://www.udemy.com/topic/html5/?price=price-free&sort=popularity" target="_blank">Udemy Cursos HTML Gratuitos</a>
     </p>
   </p>
@@ -28,9 +29,11 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.w3schools.com" />
       <a href="https://www.w3schools.com/html/default.asp" target="_blank">Tutorial HTML W3schools</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.w3schools.com" />
       <a href="https://www.w3schools.com/tags/default.asp" target="_blank">Documentação HTML W3schools</a>
     </p>
   </p>
@@ -45,6 +48,7 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
       <a href="https://www.udemy.com/topic/css/?price=price-free&sort=popularity" target="_blank">Udemy Cursos CSS Gratuitos</a>
     </p>
   </p>
@@ -54,15 +58,19 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.w3schools.com" />
       <a href="https://www.w3schools.com/css/default.asp" target="_blank">Tutorial CSS W3schools</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.w3schools.com" />
       <a href="https://www.w3schools.com/cssref/default.asp" target="_blank">Documentação CSS W3schools</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://origamid.com" />
       <a href="https://origamid.com/projetos/flexbox-guia-completo/" target="_blank">Guia Flexbox Origamid</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://flexboxfroggy.com/" />
       <a href="https://flexboxfroggy.com/" target="_blank">Game Flexbox Froggy</a>
     </p>
   </p>
@@ -77,6 +85,7 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
       <a href="https://www.udemy.com/topic/javascript/?price=price-free&sort=popularity" target="_blank">Udemy Cursos JS Gratuitos</a>
     </p>
   </p>
@@ -85,12 +94,15 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://code.org" />
       <a href="https://code.org" target="_blank">Code.org (aprenda jogando)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://grasshopper.app/pt_br/" />
       <a href="https://grasshopper.app/pt_br/" target="_blank">Grasshopper</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://developer.mozilla.org" />
       <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Documentação Javascript</a>
     </p>
     
@@ -106,6 +118,7 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
       <a href="https://www.udemy.com/topic/react/?price=price-free&sort=popularity" target="_blank">Udemy Cursos React Gratuitos</a>
     </p>
   </p>
@@ -114,6 +127,7 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://pt-br.reactjs.org/" />
       <a href="https://pt-br.reactjs.org/" target="_blank">Documentação React</a>
     </p>
 
@@ -134,27 +148,35 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://youtube.com/playlist?list=PLnDvRpP8Bnez2LJGshXKtid2f-aUkFOqM" target="_blank">Hora de Codar (HTML e CSS)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://youtube.com/playlist?list=PLVzrOYTg7zYAsLLBBN20bo7qOr9fC-USB" target="_blank">Programador BR (HTML e CSS)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.rocketseat.com.br/discover" />
       <a href="https://www.rocketseat.com.br/discover" target="_blank">Discover Rocketseat (HTML, CSS e JS)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.cursoemvideo.com/" />
       <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video (HTML, CSS e JS)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://youtube.com/playlist?list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6" target="_blank">Hora de Codar (JS)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://youtube.com/playlist?list=PL85ITvJ7FLoiuaKgHFYgrhZDwXOUEaxWI" target="_blank">RocketSeat (React)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO" target="_blank">Hora de Codar (React)</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://youtu.be/pDbcC-xSat4" target="_blank">RocketSeat - React em 2022 (React)</a>
     </p>
   </p>
@@ -174,18 +196,23 @@
 
   <p align="center">
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://www.youtube.com/c/RocketSeat" target="_blank">Rocketseat</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://www.youtube.com/c/FilipeDeschamps" target="_blank">FilipeDeschamps</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://www.youtube.com/c/CursoemVídeo" target="_blank">CursoemVídeo</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://www.youtube.com/c/OneBitCode" target="_blank">OneBitCode</a>
     </p>
     <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://youtube.com" />
       <a href="https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag" target="_blank">Hora de Codar</a>
     </p>
   </p>
