@@ -16,15 +16,6 @@
   
   ## <p align="center">HTML5</p>
 
-  ### <p align="center">📓 Cursos gratuitos para aprender HTML</p>
-
-  <p align="center">
-    <p align="center">
-      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
-      <a href="https://www.udemy.com/topic/html5/?price=price-free&sort=popularity" target="_blank">Udemy Cursos HTML Gratuitos</a>
-    </p>
-  </p>
-
   ### <p align="center">🌐 Links úteis para HTML</p>
 
   <p align="center">
@@ -38,20 +29,23 @@
     </p>
   </p>
 
+  ### <p align="center">📓 Cursos gratuitos para aprender HTML</p>
+
+  <p align="center">
+    <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
+      <a href="https://www.udemy.com/topic/html5/?price=price-free&sort=popularity" target="_blank">Udemy Cursos HTML Gratuitos</a>
+    </p>
+    <p align="center">
+      :arrow_double_down: <a href="#cursos-completos" >Mais Cursos</a> :arrow_double_down:  
+    </p>
+  </p>
+
   ## 
 
   <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" /> </p>
 
   ## <p align="center">CSS3</p>
-
-  ### <p align="center">📓 Cursos gratuitos para aprender CSS</p>
-
-  <p align="center">
-    <p align="center">
-      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
-      <a href="https://www.udemy.com/topic/css/?price=price-free&sort=popularity" target="_blank">Udemy Cursos CSS Gratuitos</a>
-    </p>
-  </p>
   
 
   ### <p align="center">🌐 Links úteis para CSS</p>
@@ -75,20 +69,23 @@
     </p>
   </p>
 
+  ### <p align="center">📓 Cursos gratuitos para aprender CSS</p>
+
+  <p align="center">
+    <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
+      <a href="https://www.udemy.com/topic/css/?price=price-free&sort=popularity" target="_blank">Udemy Cursos CSS Gratuitos</a>
+    </p>
+    <p align="center">
+      :arrow_double_down: <a href="#cursos-completos" >Mais Cursos</a> :arrow_double_down:  
+    </p>
+  </p>
+
   ## 
 
   <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /> </p>
   
   ## <p align="center">JS</p>
-
-  ### <p align="center">📓 Cursos gratuitos para aprender JS</p>
-
-  <p align="center">
-    <p align="center">
-      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
-      <a href="https://www.udemy.com/topic/javascript/?price=price-free&sort=popularity" target="_blank">Udemy Cursos JS Gratuitos</a>
-    </p>
-  </p>
 
   ### <p align="center">🌐 Links úteis para JS</p>
 
@@ -108,20 +105,23 @@
     
   </p>
 
+  ### <p align="center">📓 Cursos gratuitos para aprender JS</p>
+
+  <p align="center">
+    <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
+      <a href="https://www.udemy.com/topic/javascript/?price=price-free&sort=popularity" target="_blank">Udemy Cursos JS Gratuitos</a>
+    </p>
+    <p align="center">
+      :arrow_double_down: <a href="#cursos-completos" >Mais Cursos</a> :arrow_double_down:  
+    </p>
+  </p>
+
   ## 
 
   <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" /> </p>
   
   ## <p align="center">React</p>
-
-  ### <p align="center">📓 Cursos gratuitos para aprender React</p>
-
-  <p align="center">
-    <p align="center">
-      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
-      <a href="https://www.udemy.com/topic/react/?price=price-free&sort=popularity" target="_blank">Udemy Cursos React Gratuitos</a>
-    </p>
-  </p>
 
   ### <p align="center">🌐 Links úteis para React</p>
 
@@ -131,6 +131,18 @@
       <a href="https://pt-br.reactjs.org/" target="_blank">Documentação React</a>
     </p>
 
+  </p>
+
+  ### <p align="center">📓 Cursos gratuitos para aprender React</p>
+
+  <p align="center">
+    <p align="center">
+      <img src="https://www.google.com/s2/favicons?domain=https://www.udemy.com" />
+      <a href="https://www.udemy.com/topic/react/?price=price-free&sort=popularity" target="_blank">Udemy Cursos React Gratuitos</a>
+    </p>
+    <p align="center">
+      :arrow_double_down: <a href="#cursos-completos" >Mais Cursos</a> :arrow_double_down:  
+    </p>
   </p>
   
   ##
